@@ -18,7 +18,7 @@ O curso começa explorando o **roteiro de resolução de problemas** e sua impor
 
 ### 2. Fazendo Perguntas SMART
 
-Os alunos exploram como as **perguntas SMART** — Específicas, Mensuráveis, Orientadas para Ação, Relevantes e Limitadas no Tempo — podem orientar análises e resoluções de problemas mais significativas.
+Os alunos exploram como as **perguntas SMART**, Específicas (**S**pecific), Mensuráveis (**M**easurable), Orientadas para Ação (**A**ction-oriented), Relevantes (**R**elevant) e Limitadas no Tempo (**T**ime-bound), podem orientar análises e resoluções de problemas mais significativas.
 
 **Exemplos de perguntas SMART:**
 * Quais características são mais importantes para os clientes ao comprar um carro?
@@ -32,7 +32,7 @@ Os alunos exploram como as **perguntas SMART** — Específicas, Mensuráveis, O
 
 ### 3. Dashboards e Visualização de Dados
 
-Os alunos ganham experiência em projetar e interpretar dashboards — ferramentas poderosas para monitorar dados em tempo real, visualizar tendências e comunicar resultados.
+Os alunos ganham experiência em projetar e interpretar dashboards: ferramentas poderosas para monitorar dados em tempo real, visualizar tendências e comunicar resultados.
 
 **Benefícios dos dashboards:**
 | Para Analistas de Dados | Para Stakeholders |

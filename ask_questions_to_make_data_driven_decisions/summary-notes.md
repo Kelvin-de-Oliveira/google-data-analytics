@@ -18,7 +18,7 @@ The course begins by exploring the **problem-solving roadmap** and its importanc
 
 ### 2. Asking SMART Questions
 
-Learners explore how **SMART questions**—Specific, Measurable, Action-oriented, Relevant, and Time-bound—can guide meaningful analysis and problem-solving.
+Learners explore how **SMART questions**, **S**pecific, **M**easurable, **A**ction-oriented, **R**elevant, and **T**ime-bound, can guide meaningful analysis and problem-solving.
 
 **Examples of SMART questions:**
 * What features are most important to customers when purchasing a car?
@@ -32,7 +32,7 @@ Learners explore how **SMART questions**—Specific, Measurable, Action-oriented
 
 ### 3. Dashboards and Data Visualization
 
-Learners gain experience in designing and interpreting dashboards — powerful tools for monitoring live data, visualizing trends, and communicating findings.
+Learners gain experience in designing and interpreting dashboards: powerful tools for monitoring live data, visualizing trends, and communicating findings.
 
 **Dashboard benefits:**
 | For Data Analysts | For Stakeholders |
