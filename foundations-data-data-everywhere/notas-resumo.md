@@ -1,6 +1,6 @@
 # Resumo do Curso
 
-O curso “Foundations: Data, Data, Everywhere”, oferecido pelo Google via Coursera, é um curso introdutório que oferece uma base sólida em conceitos, ferramentas e práticas essenciais para a análise de dados.
+O curso “Foundations: Data, Data, Everywhere”, oferecido pelo Google por meio do Coursera como parte da Certificação Google Data Analytics, é uma introdução à análise de dados e oferece uma base sólida em conceitos, ferramentas e práticas essenciais para a análise de dados.
 
 ## Conteúdo e Aprendizagem
 ## 1. Conceitos Fundamentais
