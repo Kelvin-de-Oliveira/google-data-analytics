@@ -10,13 +10,11 @@ The course introduces key data analytics concepts, including:
 * Data and data analysis: understanding that data is a collection of facts that can be processed to generate useful insights.
 * Data ecosystems: the combination of tools, processes, and people involved in data analytics.
 
-**Practical example**: transforming raw sales data into actionable information to increase company revenue.
-
 ## 2. Analytical Thinking
 
 Learners develop analytical thinking skills to identify, organize, and solve problems systematically, distinguishing between causes and effects and separating facts from intuition.
 
-**Practical example**: a junior data analyst in a construction company plans a home remodeling project, using data to improve the quality and usefulness of collected information.
+**e.g.**: a junior data analyst in a construction company plans a home remodeling project, using data to improve the quality and usefulness of collected information.
 
 ## 3. Tools and Techniques
 
@@ -39,8 +37,6 @@ The course details six main phases of the data analysis process:
 * Share: present insights visually and clearly to stakeholders.
 * Act: apply insights in decisions and projects, including case studies.
 
-**Practical example**: a retail data team collects and analyzes information on product returns, combining datasets to identify patterns and improve business processes.
-
 ## 5. Data Lifecycle
 
 In addition to the analysis phases, the course introduces the six stages of the data lifecycle:
@@ -52,13 +48,11 @@ In addition to the analysis phases, the course introduces the six stages of the 
 * Archive: keep data for future reference.
 * Destroy: securely delete sensitive data.
 
-**Practical example**: after completing a project, sensitive customer data is destroyed to protect privacy.
-
 ## 6. Data-Driven Decision Making
 
 The course emphasizes the importance of data-driven decisions, showing how facts and analysis guide strategic actions in businesses, governments, and projects.
 
-**Practical example**: a government agency uses police report data to develop crime prevention strategies.
+**e.g.**: a government agency uses police report data to develop crime prevention strategies.
 
 ## Skills Gained
 

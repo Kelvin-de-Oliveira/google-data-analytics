@@ -10,13 +10,11 @@ O curso apresenta conceitos-chave de análise de dados, incluindo:
 * Dados e análise de dados: entender que dados são uma coleção de fatos que podem ser processados para gerar informações úteis.
 * Ecossistemas de dados: a combinação de ferramentas, processos e pessoas envolvidas na análise de dados.
 
-**Exemplo prático**: transformar dados brutos de vendas em informações acionáveis para aumentar a receita da empresa.
-
 ## 2. Pensamento Analítico
 
 Os alunos desenvolvem habilidades de pensamento analítico para identificar, organizar e resolver problemas de forma sistemática, distinguindo causas de efeitos e separando fatos de intuições.
 
-**Exemplo prático**: um analista de dados júnior em uma empresa de construção planeja um projeto de reforma de casas, usando dados para melhorar a qualidade e utilidade das informações coletadas.
+**Exemplo**: um analista de dados júnior em uma empresa de construção planeja um projeto de reforma de casas, usando dados para melhorar a qualidade e utilidade das informações coletadas.
 
 ## 3. Ferramentas e Técnicas
 
@@ -39,8 +37,6 @@ O curso detalha seis fases principais do processo de análise de dados:
 * Share (Compartilhar): apresentar insights de forma visual e clara para as partes interessadas.
 * Act (Agir): aplicar insights em decisões e projetos, incluindo estudos de caso.
 
-**Exemplo prático**: uma equipe de dados de uma varejista coleta e analisa informações sobre devoluções de produtos, combinando conjuntos de dados para identificar padrões e melhorar processos de negócios.
-
 ## 5. Ciclo de Vida dos Dados
 
 Além das fases de análise, o curso apresenta os seis estágios do ciclo de vida dos dados:
@@ -52,13 +48,11 @@ Além das fases de análise, o curso apresenta os seis estágios do ciclo de vid
 * Archive (Arquivar): manter dados para referência futura.
 * Destroy (Destruir): excluir dados sensíveis de forma segura.
 
-**Exemplo prático**: após a conclusão de um projeto, dados sensíveis de clientes são destruídos para proteger a privacidade.
-
 ## 6. Tomada de Decisão Baseada em Dados
 
 O curso enfatiza a importância de decisões baseadas em dados, mostrando como fatos e análises orientam ações estratégicas em empresas, governos e projetos.
 
-**Exemplo prático**: um órgão governamental utiliza dados de relatórios policiais para desenvolver estratégias de prevenção ao crime.
+**Exemplo**: um órgão governamental utiliza dados de relatórios policiais para desenvolver estratégias de prevenção ao crime.
 
 ## Habilidades Desenvolvidas
 
