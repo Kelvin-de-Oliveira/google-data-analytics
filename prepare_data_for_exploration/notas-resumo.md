@@ -1,6 +1,6 @@
-# Resumo do Curso – Preparação de Dados para Exploração
+# Resumo do Curso 
 
-O curso **“Prepare Data for Exploration”**, oferecido pelo Google via Coursera como parte da **Certificação Google Data Analytics**, foca no processo de coleta, organização e proteção de dados antes da análise. Ele enfatiza como os analistas identificam fontes de dados confiáveis, garantem a integridade dos dados, gerenciam metadados e aplicam práticas éticas de manipulação de dados para preparar conjuntos de dados voltados a insights significativos.
+O curso **“Prepare Data for Exploration”**, oferecido pelo Google via Coursera como parte do **Certificado Profissional Google Data Analytics**, foca no processo de coleta, organização e proteção de dados antes da análise. Ele enfatiza como os analistas identificam fontes de dados confiáveis, garantem a integridade dos dados, gerenciam metadados e aplicam práticas éticas de manipulação de dados para preparar conjuntos de dados voltados a insights significativos.
 
 ## Conteúdo e Aprendizagem
 

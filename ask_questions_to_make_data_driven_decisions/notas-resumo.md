@@ -101,4 +101,4 @@ Ao final do curso, os alunos adquirem habilidades em:
 
 ## Conclusão
 
-Este curso reforça a base para uma análise de dados eficaz ao combinar pensamento estruturado, resolução de problemas e habilidades de visualização. Os alunos ganham experiência prática em fazer as perguntas certas, projetar dashboards e usar ferramentas de planilhas — todas essenciais para se tornar um tomador de decisões orientado por dados em ambientes profissionais.
+Este curso me permitiu fortalecer minha base em análise de dados, desenvolvendo meu pensamento estruturado, minhas habilidades de resolução de problemas e de visualização. Ganhei experiência prática em formular as perguntas certas, criar dashboards e utilizar ferramentas de planilhas, contribuindo significativamente para meu crescimento como profissional orientado por decisões baseadas em dados.

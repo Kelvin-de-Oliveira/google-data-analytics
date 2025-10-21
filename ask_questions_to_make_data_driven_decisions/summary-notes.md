@@ -101,4 +101,4 @@ By the end of this course, learners gain skills in:
 
 ## Conclusion
 
-This course strengthens the foundation for effective data analysis by combining structured thinking, problem-solving, and visualization skills. Learners gain practical experience in asking the right questions, designing dashboards, and using spreadsheet tools — all essential for becoming a data-driven decision-maker in professional environments.
+This course helped me strengthen my foundation in data analysis by enhancing my structured thinking, problem-solving, and visualization skills. I gained hands-on experience in asking the right questions, designing dashboards, and using spreadsheet tools, which has been essential for my growth as a data-driven decision-maker in professional settings.

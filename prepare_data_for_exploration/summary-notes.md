@@ -136,4 +136,4 @@ By the end of this course, learners gain skills in:
 
 ## Conclusion
 
-This course builds essential skills for preparing data before analysis, emphasizing accuracy, organization, and ethics. By mastering data collection, verification, and documentation, learners gain the ability to transform raw information into well-structured, reliable datasets — the foundation for any effective data analysis process.
+Este curso me ajudou a desenvolver habilidades essenciais para preparar dados antes da análise, com foco em precisão, organização e práticas éticas. Ao dominar a coleta, verificação e documentação de dados, aprimorei minha capacidade de transformar informações brutas em conjuntos de dados bem estruturados e confiáveis, criando uma base sólida para análises eficazes e contribuindo para meu crescimento como profissional orientado por dados.able datasets, providing a strong foundation for effective data analysis and supporting my growth as a data-driven professional.
