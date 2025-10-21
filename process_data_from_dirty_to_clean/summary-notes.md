@@ -1,4 +1,4 @@
-# Course Summary – Process Data from Dirty to Clean
+# Course Summary 
 
 The course **“Process Data from Dirty to Clean”**, part of the **Google Data Analytics Certificate**, focuses on transforming raw, inconsistent, and inaccurate data into clean, reliable datasets ready for analysis. It guides learners through the principles of data integrity, practical data-cleaning techniques using spreadsheets and SQL, and methods for validating and verifying cleaning results.
 
