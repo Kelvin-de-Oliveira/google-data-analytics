@@ -24,6 +24,6 @@ O curso é estruturado em **8 módulos**, e para cada módulo há uma pasta dedi
 
 Para o **módulo final**, a pasta também incluirá a **solução do projeto final**, demonstrando as habilidades e conhecimentos adquiridos ao longo do curso.
 
-Atualmente, concluí **4 módulos** e estou trabalhando ativamente nos módulos restantes.
+Atualmente, concluí **4 módulos** e estou trabalhando  nos módulos restantes.
 
 Este repositório será atualizado conforme meu progresso no curso. 
